@@ -44,7 +44,7 @@ label {
 label input {
   display: none;
 }
-label div {
+label div.deo_inside {
   display: block;
   width: 120px;
   height: 50px;
